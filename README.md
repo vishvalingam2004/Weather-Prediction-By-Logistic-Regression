@@ -1,4 +1,4 @@
-# WEATHER-PREDICTION BY LOGISTIC REGRESSION.
+# WEATHER-PREDICTION BY LOGISTIC-REGRESSION.
 Predicting whether it's rain on tomorrow or not.
 # OVERVIEW
 Here in this repo, I used dataset on Weather records in different areas of Australia. 
